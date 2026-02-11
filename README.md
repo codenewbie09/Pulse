@@ -106,7 +106,9 @@ MIT License
 
 ---
 
-```
 **Built by Prateek Agrawal**
 
 ```
+
+```
+

@@ -1,0 +1,7 @@
+streamlit
+networkx
+pandas
+plotly
+numpy
+mmh3
+psutil
