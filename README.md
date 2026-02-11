@@ -1,4 +1,3 @@
-```markdown
 # Pulse: Real-Time Network Analysis Engine
 
 A system designed to analyze high-velocity data streams by combining **Probabilistic Data Structures** (for efficiency) with **Graph Theory** (for structural insight).
